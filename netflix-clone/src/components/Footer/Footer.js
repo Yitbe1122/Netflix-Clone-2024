@@ -48,7 +48,7 @@ function Footer() {
           &copy; 1997-2024 Netflix, Inc.
         </div>
       </div>
-    </div>
+      </div>
     </div>
   )
 }
