@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Yitbe1122.github.io/Netflix-Clone-2024/static/css/main.ddcf8b44.css",
+    "main.js": "/Yitbe1122.github.io/Netflix-Clone-2024/static/js/main.9b74cb8b.js",
+    "static/media/Netflix_2015_logo.svg": "/Yitbe1122.github.io/Netflix-Clone-2024/static/media/Netflix_2015_logo.5787551b8de42aef368c379572555ada.svg",
+    "index.html": "/Yitbe1122.github.io/Netflix-Clone-2024/index.html",
+    "main.ddcf8b44.css.map": "/Yitbe1122.github.io/Netflix-Clone-2024/static/css/main.ddcf8b44.css.map",
+    "main.9b74cb8b.js.map": "/Yitbe1122.github.io/Netflix-Clone-2024/static/js/main.9b74cb8b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddcf8b44.css",
+    "static/js/main.9b74cb8b.js"
+  ]
+}
